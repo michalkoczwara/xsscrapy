@@ -10,3 +10,4 @@ cssselect
 pyopenssl
 cryptography
 queuelib
+certifi>=2024.7.4 # not directly required, pinned by Snyk to avoid a vulnerability
